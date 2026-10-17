@@ -1,0 +1,6 @@
+{
+  "name": "CONECTA+ | Plataforma Educativa Inclusiva y Colaborativa",
+  "description": "Plataforma educativa colaborativa para primaria (6-12 años) que fomenta la convivencia inclusiva y previene la exclusión escolar mediante retos en parejas obligatorios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
