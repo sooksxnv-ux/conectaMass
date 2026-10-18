@@ -1,4 +1,4 @@
-export { ChallengeDef, BadgeDef, LevelInfo, Classroom, Student, Pairing } from '../types';
+import type { ChallengeDef, BadgeDef, LevelInfo, Classroom, Student, Pairing } from '../types';
 
 import HERO_IMAGE from '..assets/images/hero_conecta_collaborative_1792207642596.jpg';
 import PLAYGROUND_IMAGE from'..assets/images/inclusive_school_playground_1792207643446.jpg';
