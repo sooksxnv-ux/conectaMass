@@ -3,7 +3,7 @@ import type { ChallengeDef, BadgeDef, LevelInfo, Classroom, Student, Pairing } f
 import HERO_IMAGE from '../assets/images/hero_conecta_collaborative_1792207642596.jpg';
 import PLAYGROUND_IMAGE from'../assets/images/inclusive_school_playground_1792207643446.jpg';
 import STORY_ADVENTURE_IMAGE from '../assets/images/challenge_story_adventure_1792207643324.jpg';
-
+export { HERO_IMAGE,PLAYGROUND_IMAGE,STORY_ADVENTURE_IMAGE};
 export const INITIAL_CLASSROOMS: Classroom[] = [
   {
     code: 'CONECTA4B',
